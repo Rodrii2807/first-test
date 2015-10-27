@@ -1,0 +1,142 @@
+body
+{
+	background: grey;
+	margin:0;
+}
+.wrapper
+{
+	background: #FFF;
+	width: 864px ; 
+	height: 784px;
+	margin: 0 auto;
+}
+header
+{
+  width: 730px;
+  height: 73px;
+  margin: 0 auto;
+  position: relative;
+
+}
+h1
+{
+	font:30px "Arial";
+	color: #348410;
+}
+header h1
+{
+	position: relative;
+	top: 0px;
+	left: 283px;
+	position: absolute;
+	z-index:1;
+}
+nav
+{
+	
+	width: 730px;
+	height: 53px;	
+}
+nav ul
+{
+	list-style-type: none;
+
+}
+nav ul li
+{
+	width: 110px;
+	margin: 20px 6px 0px 6px;
+	float: left;
+	padding: 15px 12px 0px 12px;
+	text-align: center;
+	border-radius: 5px 5px 0px;
+	background-color: #093C03;
+	
+
+}
+nav li
+{
+	padding: 10px 0px 0px;
+}
+a
+{
+	font: 11px "verdana";
+	color: white;
+	
+}
+.container
+{
+	border: 2px solid grey;
+	margin: 10px auto;
+	width: 730px;
+	height: 583px;
+}
+
+.banner
+{
+	background: #FFF;
+	border-top: 18px solid red;
+	width: 730px;
+	height: 305px;
+}
+form
+{
+	border: 2px solid grey;
+	border-right: 0px;
+	width: 195px;
+	height: 177px;
+	float: right;	
+	
+}
+.live
+{
+	border: 2px solid grey;
+	border-left: 0px;
+	width: 521px;
+	height: 92px;
+	float: left;
+
+}
+.live img
+{
+	margin: 10px 30px 10px;
+}
+h2
+{
+	font: 15px "Times New Roman";
+	color: #650711;
+}
+.live h2
+{
+	position: relative;
+	left: 357px;
+	bottom: 104px;
+}
+p
+{
+	font: 10px "verdana";
+	width: 400px;
+	text-align: right;
+	font-stretch: 50px;
+}
+.live p
+{
+  position: relative;
+  left: 53px;
+  bottom: 105px;
+
+}
+.ticket
+{
+	border: 2px solid grey;
+	border-left: 0px;
+	border-top: 0px;
+	width: 521px;
+	height: 85px;
+	float: left;
+}
+.ticket img
+{
+	margin: 5px 22px 5px;
+}
+
